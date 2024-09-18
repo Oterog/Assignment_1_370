@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>8</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>368</x>
+      <y>512</y>
+      <w>112</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>Screen / Terminal</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>632</x>
+      <y>504</y>
+      <w>128</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>Microcontroller Unit</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>56</x>
+      <y>488</y>
+      <w>112</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>Operator / 
+Anesthesiologist
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>1216</x>
+      <y>480</y>
+      <w>48</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>Patient</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>920</x>
+      <y>480</y>
+      <w>64</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>Machine</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>104</x>
+      <y>440</y>
+      <w>96</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;90.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>368</x>
+      <y>456</y>
+      <w>72</w>
+      <h>96</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;70.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>416</x>
+      <y>528</y>
+      <w>104</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;110.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>624</x>
+      <y>520</y>
+      <w>88</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>90.0;10.0;10.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>688</x>
+      <y>504</y>
+      <w>80</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;30.0;80.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>504</x>
+      <y>512</y>
+      <w>128</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Use Case
+--
+Interpretation of
+instructions
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>184</x>
+      <y>392</y>
+      <w>200</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>Use Case
+--
+Configure operation limits
+Display info and monitor sensors
+Set settings
+Set modes
+Set and configure switches
+
+
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>752</x>
+      <y>472</y>
+      <w>128</w>
+      <h>96</h>
+    </coordinates>
+    <panel_attributes>Use Case
+--
+Control Bellows
+Monitor sensors
+Self check
+Trigger alarms
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>872</x>
+      <y>496</y>
+      <w>96</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;30.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>944</x>
+      <y>496</y>
+      <w>88</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>90.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>1016</x>
+      <y>488</y>
+      <w>128</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Use Case
+--
+Deliver gas
+Remove gas
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1136</x>
+      <y>496</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;30.0;130.0;10.0</additional_attributes>
+  </element>
+</diagram>
