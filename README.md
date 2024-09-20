@@ -1,6 +1,6 @@
 # Assignment_1_370
 
-Collaborators: Gabriel Otero, 
+Collaborators: Gabriel Otero, Stephanie Myalik
 
 Due: 09/20/24
 
